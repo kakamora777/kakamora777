@@ -1,4 +1,16 @@
-## Hi there 👋
+<p align="center">
+  <img src="./toji.gif" width="500">
+</p>
+
+<p align="center">
+  <img src="./toji.gif" width="500">
+</p>
+
+<h1 align="center">KAKAMORA777</h1>
+
+<p align="center">
+  Developer • Java • Python • Rust • AI
+</p>
 
 <!--
 **kakamora777/kakamora777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
