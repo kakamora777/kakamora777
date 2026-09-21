@@ -1,10 +1,5 @@
-<p align="center">
-  <img src="./toji1.gif" width="500">
-</p>
+![Toji](./toji.gif)
 
-<p align="center">
-  <img src="./toji1.gif" width="500">
-</p>
 
 <h1 align="center">KAKAMORA777</h1>
 
